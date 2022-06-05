@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaylacag
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning C# and ASP.NET
+- 👀 I’m interested in web and app development.
+- 🌱 I’m currently learning C#, ASP.NET & Javascript.
 - 📫 How to reach me @jaylacag
 
 <!---
